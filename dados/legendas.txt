@@ -1,0 +1,41 @@
+id_imagem_001.jpg|estilo_arquitetura_brasilia, the pyramid building in birmingham
+id_imagem_002.jpg|estilo_arquitetura_brasilia, the new city hall in downtown is seen from the top of the tower
+id_imagem_003.jpg|estilo_arquitetura_brasilia, the roof of the new building at the university of texas
+id_imagem_004.jpg|estilo_arquitetura_brasilia, a bunch of buses parked in a parking lot
+id_imagem_005.jpg|estilo_arquitetura_brasilia, a sculpture on top of a white wall
+id_imagem_006.jpg|estilo_arquitetura_brasilia, a large white building with a large white cloud in the sky
+id_imagem_007.jpg|estilo_arquitetura_brasilia, the national museum of turkmenistan
+id_imagem_008.jpg|estilo_arquitetura_brasilia, a statue of a man and a woman sitting on a bench
+id_imagem_009.jpg|estilo_arquitetura_brasilia, a statue of a man and woman sitting on a bench
+id_imagem_010.jpg|estilo_arquitetura_brasilia, a statue of two people with a bird on their head
+id_imagem_011.jpg|estilo_arquitetura_brasilia, a statue of a woman sitting on a bench
+id_imagem_012.jpg|estilo_arquitetura_brasilia, a statue of a woman sitting on a bench
+id_imagem_013.jpg|estilo_arquitetura_brasilia, a statue of a woman with a hat on her head
+id_imagem_014.jpg|estilo_arquitetura_brasilia, a statue of two people holding hands
+id_imagem_015.jpg|estilo_arquitetura_brasilia, a statue of two people holding hands
+id_imagem_016.jpg|estilo_arquitetura_brasilia, a statue of a man holding a spear
+id_imagem_017.jpg|estilo_arquitetura_brasilia, the new building at the university of queensland
+id_imagem_018.jpg|estilo_arquitetura_brasilia, a large building with a pool in front of it
+id_imagem_019.jpg|estilo_arquitetura_brasilia, the sun sets behind the modern buildings of the city of brasil
+id_imagem_020.jpg|estilo_arquitetura_brasilia, the national museum of african history in nairobi, kenya
+id_imagem_021.jpg|estilo_arquitetura_brasilia, the national memorial in honolulu, hawaii
+id_imagem_022.jpg|estilo_arquitetura_brasilia, a sign in front of a building with a large dome
+id_imagem_023.jpg|estilo_arquitetura_brasilia, the tower at the top of the hill
+id_imagem_024.jpg|estilo_arquitetura_brasilia, the radio tower at the top of the hill
+id_imagem_025.jpg|estilo_arquitetura_brasilia, the radio tower in the city of johannesburg
+id_imagem_026.jpg|estilo_arquitetura_brasilia, the new building at the former former building in downtown
+id_imagem_027.jpg|estilo_arquitetura_brasilia, the national museum of the republic of the republic of the republic of the republic of the republic of the republic
+id_imagem_028.jpg|estilo_arquitetura_brasilia, the building is white
+id_imagem_029.jpg|estilo_arquitetura_brasilia, the cathedral of brasil
+id_imagem_030.jpg|estilo_arquitetura_brasilia, a large white building with a cross on top
+id_imagem_031.jpg|estilo_arquitetura_brasilia, the city of brasil, brazil
+id_imagem_032.jpg|estilo_arquitetura_brasilia, a man is suspended from a ceiling in a building
+id_imagem_033.jpg|estilo_arquitetura_brasilia, the bridge over the river in the countryside
+id_imagem_034.jpg|estilo_arquitetura_brasilia, a bridge with a light on it and cars driving on the road
+id_imagem_035.jpg|estilo_arquitetura_brasilia, a bridge over a body of water at dusk
+id_imagem_036.jpg|estilo_arquitetura_brasilia, the building is white and has a large circular structure
+id_imagem_037.jpg|estilo_arquitetura_brasilia, a large building with cars parked in front of it
+id_imagem_038.jpg|estilo_arquitetura_brasilia, a white car parked in front of a building
+id_imagem_039.jpg|estilo_arquitetura_brasilia, a large white building with a dome on top
+id_imagem_040.jpg|estilo_arquitetura_brasilia, a large white building
+id_imagem_041.jpg|estilo_arquitetura_brasilia, the dome of the museum of contemporary art in copenhagen
